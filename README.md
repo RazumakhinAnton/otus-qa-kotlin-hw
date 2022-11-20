@@ -1,7 +1,7 @@
 # otus-qa-kotlin-hw
 Otus QA Kotlin Home works
 
-## Home work 1
+## Homework 1
 
 Implement interface
 
